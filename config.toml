@@ -1,0 +1,23 @@
+base_url = "https://devendrn.github.io/newb-shader"
+compile_sass = true
+build_search_index = false
+
+title = "newb-shader"
+description = "Newb Shader is an enhanced vanilla shader for Minecraft Bedrock Edition."
+author = "devendrn"
+
+theme = "devnzt"
+
+[markdown]
+highlight_code = false
+
+[extra]
+error404_title = "Error 404"
+error404_description = "Can't find the page you were looking for..."
+
+header_links = [
+    { name = "Download", url = "download" },
+    { name = "Help", url = "help" },
+]
+
+footer_content = "Copyright &copy; devendrn &ensp;|&ensp; This site is not associated with Mojang or Microsoft."

@@ -1,0 +1,3 @@
+[submodule "themes/devnzt"]
+	path = themes/devnzt
+	url = https://github.com/devendrn/devnzt.git
