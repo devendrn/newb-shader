@@ -1,4 +1,4 @@
-base_url = "https://devendrn.github.io/newb-shader"
+base_url = "https://devendrn.github.io/newb-shader/"
 compile_sass = true
 build_search_index = false
 
