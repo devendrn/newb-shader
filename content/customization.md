@@ -71,6 +71,7 @@ To build only some materials, run:
 The output will be in `build/android` folder.
 
 Available parameters for the build.sh:
+
 | Option | Parameter description |
 | :-: | :- |
 | -p | Target platforms (Android, iOS) |
@@ -116,6 +117,7 @@ When editing config, you generally want to save build time by only building shad
 This will only build terrain and sky materials. The output will be in `build\Windows` folder.
 
 Available parameters for the build.bat:
+
 | Option | Parameter description |
 | :-: | :- |
 | -p | Target platforms (Windows, Android, iOS, Merged) |

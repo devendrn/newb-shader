@@ -5,7 +5,7 @@ description = ""
 
 <div style="text-align: center;">
 
-**[Installation](../guide) | [Discord](https://discord.gg/newb-community-844591537430069279) | [GitHub](https://github.com/devendrn/newb-x-mcbe)**
+**[Installation](@/guide.md) | [Discord](https://discord.gg/newb-community-844591537430069279) | [GitHub](https://github.com/devendrn/newb-x-mcbe)**
 
 </div>
 
@@ -25,7 +25,7 @@ If you want to give a suggestion/ report an issue, please open an issue at the G
 
 > **Can I use other shaders in Patch App?**
 >
-> Yes, the Patch app supports all RenderDragon shaders. You can find other shaders here.
+> Yes, the Patch app supports all RenderDragon shaders. You can find other shaders [here](https://github.com/DominoKorean/Render-dragon-shader-list).
 
 > **Why is the sky cutting off at the bottom?**
 > 
@@ -33,4 +33,4 @@ If you want to give a suggestion/ report an issue, please open an issue at the G
 
 > **How can I customize this shader?**
 > 
-> See [customization guide](../customization). Some custom variants made by other users can be found [here](../variants).
+> See [customization guide](@/customization.md). Some custom variants made by other users can be found [here](@/variants/_index.md).
