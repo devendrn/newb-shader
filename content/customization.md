@@ -9,7 +9,7 @@ description = "Learn how to customize Newb X Legacy"
 
 </div>
 
-> Customizing Newb X Legacy is not as simple as just editing a text file. You can ask for help on our Discord server if you face issues following this guide.
+> Customizing Newb X Legacy is not as simple as just editing a text file. You can ask for help on our [Discord server](https://discord.gg/newb-community-844591537430069279) if you face issues following this guide.
 
 # Android
 ---
@@ -59,16 +59,23 @@ In Termux, go inside newb-x-mcbe folder:
 cd newb-x-mcbe
 ```
 
-Now build files by:
+Now build all materials (takes more time) by running:
 ```
 ./build.sh
 ```
 
-To build only some materials, run (saves time):
+To build only some materials, run:
 ```
 ./build.sh -m RenderChunk Sky
 ```
-The output will be in `build` folder.
+The output will be in `build/android` folder.
+
+Available parameters for the build.sh:
+| Option | Parameter description |
+| :-: | :- |
+| -p | Target platforms (Android, iOS) |
+| -m | Materials to compile (if unspecified, builds all material files) |
+| -t | Number of threads to use for compilation (default is CPU core count) |
 
 ### Editing config
 
@@ -106,7 +113,14 @@ When editing config, you generally want to save build time by only building shad
 .\build.bat -m RenderChunk Sky
 ```
 
-This will only build the terrain file. The output will be in `build` folder.
+This will only build terrain and sky materials. The output will be in `build\Windows` folder.
+
+Available parameters for the build.bat:
+| Option | Parameter description |
+| :-: | :- |
+| -p | Target platforms (Windows, Android, iOS, Merged) |
+| -m | Materials to compile (if unspecified, builds all material files) |
+| -t | Number of threads to use for compilation (default is CPU core count) |
 
 ### Editing config
 
