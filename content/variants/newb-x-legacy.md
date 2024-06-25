@@ -15,11 +15,11 @@ All Newb Variants are based on this version.
 ## Downloads
 **Only supports MCBE 1.20.80+** (Windows and iOS versions are untested)
 
-> **[nxl-15.42-android.mcpack](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.42-android.mcpack)** (For Patched Minecraft APK)
+> **[nxl-15.46-android.mcpack](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-android.mcpack)** (For Patched Minecraft APK)
 > 
-> **[nxl-15.42-windows.mcpack](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.42-windows.mcpack)** (For BetterRenderDragon)
+> **[nxl-15.46-windows.mcpack](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-windows.mcpack)** (For BetterRenderDragon)
 > 
-> **[nxl-15.42-ios.zip](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.42-ios.zip)** (For jailbroken devices)
+> **[nxl-15.46-ios.zip](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.46-ios.zip)** (For jailbroken devices)
 > 
 
 If you have suggestions or you want to report a bug: [Newb Community > #support](https://discord.com/channels/844591537430069279/1125004721585934356).
