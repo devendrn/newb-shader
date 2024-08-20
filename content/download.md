@@ -16,18 +16,21 @@ variants_links = [
     { name = "Join Discord", url = "https://discord.gg/newb-community-844591537430069279" }
 ]
 
+beta_downloads = [
+    { name = "Download", url = "https://github.com/devendrn/newb-x-mcbe/releases/tag/v15-dev" }
+]
 +++
 
 <div style="text-align: center;">
 
-> **Shaders are not officially supported in Minecraft Bedrock 1.20.**  
+> **Custom shaders are not officially supported in Minecraft Bedrock**  
 > Read the installation guide to learn how to install shaders unofficially.
 
 <div style="margin-top: 30px; display: flex; gap: 10px; flex-wrap: wrap;">
 
 {{ linkcard(
     title = "Newb X Legacy"
-    description = "Newb Shader ported for RenderDragon. Only works with Patched APK or BetterRenderDragon Mod."
+    description = "Only works with Patched APK or BetterRenderDragon Mod, running MCBE 1.20.80."
     image = "https://i.ibb.co/ySCz4zf/sunrise1.jpg"
     links_var = "legacy_downloads"
 )}}
@@ -40,10 +43,16 @@ variants_links = [
 )}}
 
 </div>
+<br>
 
-<br> 
+{{ linkcard(
+    title = "Newb X Legacy v15-dev"
+    description = "The latest development release of Newb X Legacy. Supports latest versions of Minecraft."
+    image = "https://github.com/devendrn/newb-shader/assets/91605478/795bf17f-3a92-4ba3-a3df-d3ad8adcce3e"
+    links_var = "beta_downloads"
+)}}
 
-**Credits**: Newb X Legacy was made possible with [MaterialBinTool](https://github.com/ddf8196/MaterialBinTool) made by ddf8196
+**Credits**: Newb X Legacy is built using [MaterialBinTool](https://github.com/ddf8196/MaterialBinTool) made by ddf8196, [Lazurite](https://veka0.github.io/lazurite/) made by veka0.
 
 ## Old version
 
