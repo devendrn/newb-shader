@@ -23,7 +23,7 @@ If you want to give a suggestion/ report an issue, please open an issue at the G
 > 
 > Yes, the patched app doesn't break any existing feature. It only adds support for loading shaders.
 
-> **Can I use other shaders in Patch App?**
+> **Can I use other shaders in Patch APK?**
 >
 > Yes, the Patch app supports all RenderDragon shaders. You can find other shaders [here](https://github.com/DominoKorean/Render-dragon-shader-list).
 
@@ -33,4 +33,8 @@ If you want to give a suggestion/ report an issue, please open an issue at the G
 
 > **How can I customize this shader?**
 > 
-> See [customization guide](@/customization.md). Some custom variants made by other users can be found [here](@/variants/_index.md).
+> See [customization guide](https://github.com/devendrn/newb-x-mcbe/wiki/Customization). Some custom variants made by other users can be found [here](https://discord.com/channels/844591537430069279/1160590633191354378).
+
+> **Where can I download Patch APK?**
+> 
+> You can find download links in our discord server.

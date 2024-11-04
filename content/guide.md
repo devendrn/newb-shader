@@ -17,11 +17,15 @@ description = "Learn how to install Newb X Legacy or Newb Variants"
 
 ### 1. Install Patch APK
 
-Download and install the Minecraft (Patched) APK.
+Download and install Minecraft (YssPatch or DracoPatch) APK.
 
-> **[Minecraft (Patched) APK](https://yss.minecraft.pe/en/MinecraftPatched/)**
+> **[Minecraft (YssPatch) APK](https://yss.minecraft.pe/en/MinecraftPatched/)**
 > 
-> The Patch App is a modified Minecraft app with patch to make the game load RenderDragon shader files from resource packs.
+> A modified Minecraft app with patch to make the game load RenderDragon shader files from resource packs.
+
+> **[Minecraft (DracoPatch) APK](https://discord.com/channels/844591537430069279/1273654378615672832)**
+> 
+> Also a modified Minecraft app similar to YssPatch, but implemented differently by a different developer.
 
 ### 2. Install Shader
 

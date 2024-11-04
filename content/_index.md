@@ -30,7 +30,6 @@ hero_btns = [
 
 </div>
 
-
 <div style="text-align: center;">
 
 # #aesthetic
@@ -51,7 +50,7 @@ hero_btns = [
 
 | Wave effects |
 | - |
-| Green plants/leaves wave, farm plants wave, lantern wave, and water wave. |
+| Green foliage, farm plants, lantern, and water wave. |
 
 | Rain effects |
 | - |
@@ -63,7 +62,7 @@ hero_btns = [
 
 | Sky |
 | - |
-| Three color gradient.  |
+| Three color gradient, better end sky.  |
 
 | Clouds |
 | - |
