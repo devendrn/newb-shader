@@ -59,6 +59,24 @@ beta_downloads = [
 > </div>
 > <p style="opacity: 0.4;">Supporters are users who helped in the development of Newb Shader by testing or giving useful suggestions.</a>
 
+<br>
+
+## Copyright
+
+> **Source Code**
+> 
+> The "Newb Shader" [source code](https://github.com/devendrn/newb-x-mcbe) is licensed under the MIT License. You are free to use, modify, and distribute the source code.
+
+> **Compiled Resource Packs (.mcpack)**
+> 
+> Resource packs are licensed under Creative Commons Attribution-NoDerivatives 4.0 International ([CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)).  This means you can redistribute unmodified copies of the resource packs, provided you give appropriate credit to "Newb Shader" and the variant creator (if any). Unauthorized distribution of derivative works (modifications) or failure to provide proper attribution may result in further action.
+
+> **Variant-Specific Terms**
+>
+> Variant creators may have additional terms and conditions regarding the use of their specific variants. Please check the individual [variant post](https://discord.com/channels/844591537430069279/1160590633191354378) for details. Each resource pack also includes a `COPYRIGHT.txt` file with specific information.
+
+**Contact** (Via Discord): @devendrn / Deven  (Lead Developer), @yourmanlight / YourManLight (Copyright Manager)
+
 </div>
 
 <style>
